@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?attr/colorAccent"
+    android:orientation="vertical"
+    tools:context="com.austinzeller.musicstructure.MainActivity">
+
+    <TextView
+        android:id="@+id/playing"
+        style="@style/CategoryStyle"
+        android:text="@string/now_playing"
+        android:background="@android:color/holo_purple" />
+
+    <TextView
+        android:id="@+id/store"
+        style="@style/CategoryStyle"
+        android:text="@string/storee"
+        android:background="@android:color/holo_red_light" />
+
+    <TextView
+        android:id="@+id/songs"
+        style="@style/CategoryStyle"
+        android:text="@string/songss"
+        android:background="@color/category_playing" />
+
+    <TextView
+        android:id="@+id/information"
+        style="@style/CategoryStyle"
+        android:text="@string/artist_informationn"
+        android:background="@color/category_store" />
+
+</LinearLayout>

@@ -1,0 +1,33 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">MusicStructure</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_information">Information</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_songs">Songs</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_playing">Playing</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_store">Store</string>
+    <string name="playing">Playing</string>
+    <string name="store">Store</string>
+    <string name="songs">Songs</string>
+    <string name="artist_information">Artist Information</string>
+    <string name="playingg">Playing</string>
+    <string name="storee">Store</string>
+    <string name="songss">Songs</string>
+    <string name="artist_informationn">Artist Information</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="go_to_now_playing">Go to Now Playing</string>
+    <string name="this_page_of_the_app_consists_of_informationn_and_a_short_biography_about_the_artist_playing_in_the_now_playing_section_of_this_app_showing_their_name_and_a_short_bio_about_them_as_a_singer_or_songwriter">This page of the app consists of informationn and a short biography about the artist playing in the now playing section of this app, showing their name and a short bio about them as a singer or songwriter.</string>
+    <string name="go_to_songs">Go to Songs</string>
+    <string name="go_to_the_store">Go to the Store</string>
+    <string name="go_to_artist_information">Go to Artist information</string>
+    <string name="this_part_of_the_app_displays_a_list_of_songs_from_the_users_music_library_ranging_in_alphabetical_order_the_can_scroll_up_or_down_to_find_and_pick_the_song_of_their_choice">This part of the app displays a list of songs from the users music library, ranging in alphabetical order, the can scroll up or down to find and pick the song of their choice.</string>
+    <string name="on_this_page_it_will_show_a_now_playing_screen_showing_the_user_what_song_they_are_listening_too_giving_them_the_option_to_see_the_name_of_the_song_pause_it_skip_it_set_the_music_to_shuffle_set_it_to_repeat_all_songs_or_just_this_one_song_or_seed_through_the_song_to_a_specific_part_the_user_likes_it_also_will_show_the_album_artwork">On this page, it will show a now playing screen, showing the user what song they are listening too, giving them the option to see the name of the song, pause it, skip it, set the music to shuffle, set it to repeat all songs or just this one song, or seed through the song to a specific part the user likes. It also will show the album artwork.</string>
+    <string name="this_part_of_the_app_contains_a_music_store_which_allows_the_user_to_browse_through_different_titles_and_genres_of_music_to_suit_their_listening_needs">This part of the app contains a music store, which allows the user to browse through different titles and genres of music to suit their listening needs.</string>
+</resources>
